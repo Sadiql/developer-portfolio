@@ -210,3 +210,25 @@ main section {
     margin-top: 50px;
     text-align: center;
 }
+.footer{
+    display: flex;
+    background-color: #FFF8F3;
+    margin-top: 100px;
+    padding: 130px 230px;
+    gap: 100px;
+
+}
+.footer-column{
+    width: 50%;
+}
+.contact input[type="text"], input[type="email"], textarea{
+    display: block;
+    width: 60%;
+    margin-bottom: 30px;
+    padding: 20px 350px 20px 30px;
+    border: 0;
+
+}
+.social-link a{
+    margin-right: 30px;
+}
